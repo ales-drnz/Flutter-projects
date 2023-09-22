@@ -15,7 +15,7 @@ I aim to upload my own apps in the future on a separate section. I'm planning to
 # Coding languages I know
 | Rank | Languages |
 |-----:|-----------|
-|     1| Flutter   |
+|     1| Dart      |
 |     2| Swift     |
 |     3| C         |
 |     4| HTML, CSS |
