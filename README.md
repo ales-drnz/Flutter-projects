@@ -4,6 +4,8 @@ My name is Alessandro and I'm a small iOS and Android developer, everyday I try 
 # The course I followed
 The course's name is "Flutter & Dart - The Complete Guide [2023 Edition]" and it's run by an amazing teacher called Maximilian Schwarzmüller (I encourage to check his socials), he is part of Academind, an organization with a variety of other courses which has its own repositories on GitHub as well. Every file uploaded in the "course-apps" section was built thanks to this course so all the credits go to them for helping me learning the language.
 
+![Apps](https://github.com/ales-drnz/flutter-projects/assets/82038599/c90aa284-aaee-4c70-959e-61c626a9d04e)
+
 # My future projects
 I aim to upload my own apps in the future on a separate section. I'm planning to make copies of popular apps as well as my own ideas to show what I can do with this amazing tool.
 
