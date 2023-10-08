@@ -17,8 +17,8 @@ I aim to upload my own apps in the future on a separate section. I'm planning to
 |-----:|-----------|
 |     1| Dart      |
 |     2| Swift     |
-|     3| C         |
-|     4| HTML, CSS |
+|     3| HTML, CSS |
+|     4| C         |
 
 # Useful links
 - Academind GitHub page ➔ https://github.com/academind
