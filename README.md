@@ -15,10 +15,11 @@ I aim to upload my own apps in the future on a separate section. I'm planning to
 # Coding languages I know
 | Rank | Languages |
 |-----:|-----------|
-|     1| Dart      |
-|     2| Swift     |
-|     3| HTML, CSS |
-|     4| C         |
+|     1| Swift     |
+|     2| Dart      |
+|     3| Python    |
+|     4| HTML, CSS |
+|     5| C         |
 
 # Useful links
 - Academind GitHub page ➔ https://github.com/academind
